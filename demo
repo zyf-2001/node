@@ -1,0 +1,5 @@
+server:
+  prot: 10011
+spring:
+  application:
+    name: demo
